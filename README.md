@@ -10,7 +10,7 @@ Dosen: Agung Nugroho, S.Kom., M.Kom.,
 
 Mata Kuliah: Bahasa Pemograman
 
-# Latihan 1
+# Latihan 1 : N acak hingga 5 dibawah 0,5 
 
 Penjelasan : 
 
@@ -58,9 +58,9 @@ Mencetak angka yang baru saja ditambahkan
 
 Contoh hasil eksekusi :
 
-![gambar]()
+![gambar](https://github.com/Shikilukeki/Foto/blob/main/n%20acak%20lebih%20kecil%20dari%200.5.png?raw=true)
 
-# Latihan 2
+# Latihan 2 : Laba Pengusaha
 
 Penjelasan :
 
@@ -123,9 +123,9 @@ Mencetak total laba yang didapat dari 8 bulan
 
 Contoh hasil eksekusi program : 
 
-![Gambar]()
+![Gambar](https://github.com/Shikilukeki/Foto/blob/main/Laba%20pengusaha.png?raw=true)
 
-# Latihan 3
+# Latihan 3 : ATM Sederhana
 
 Penjelasan : 
 
@@ -193,4 +193,4 @@ Jika pengguna memasukkan opsi yang tidak valid, lalu mencetak pesan bahwa opsi t
 
 Contoh hasil eksekusi program :
 
-![Gambar]()
+![Gambar](https://github.com/Shikilukeki/Foto/blob/main/ATM%20sederhana.png?raw=true)
